@@ -44,14 +44,8 @@ Este proyecto es una aplicación web que permite organizar un sorteo de "Amigo S
 - Se selecciona aleatoriamente un amigo que aún no haya sido sorteado.
 - Se evita la repetición de nombres hasta que todos sean seleccionados.
 
-## Mejoras futuras
-- Implementar la funcionalidad de reiniciar el sorteo.
-- Agregar la opción de descargar la lista de amigos secretos.
-- Mejorar la interfaz con animaciones y efectos visuales.
 
 ## Autor
-Desarrollado por [Tu Nombre].
+Desarrollado por José Eduardo Artiga Franco
 
-## Licencia
-Este proyecto está bajo la licencia MIT.
 
